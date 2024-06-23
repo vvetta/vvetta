@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## About Me:
+
+Hi all! My name is Nikita and I'm 20 years old! I'm a Python Backend developer. My main framework is FastAPI, but I also know many other technologies.
+
 <!--
 **vvetta/vvetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
