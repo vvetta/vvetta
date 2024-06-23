@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## About Me:
+## About Me 😄
 
 Hi all! My name is Nikita and I'm 20 years old! I'm a Python Backend developer. My main framework is FastAPI, but I also know many other technologies.
 
