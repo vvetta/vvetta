@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 
 ## My links:
-
-
-![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) - bc1q8xshve4980ccyw0cgqujdvjv24zw0vztnu5mw7
+|Badge|link|
+|:----|:---|
+|![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)| bc1q8xshve4980ccyw0cgqujdvjv24zw0vztnu5mw7 |
