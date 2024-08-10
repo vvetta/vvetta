@@ -29,12 +29,10 @@ Here are some ideas to get you started:
 
 
 ## My links:
-|Badge|link|
-|:----|:---|
-|![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)| bc1q8xshve4980ccyw0cgqujdvjv24zw0vztnu5mw7 |
-|![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)| 0xf9C09D9B430930f68620dA314cB349D179e0c330 |
-|![Solana](https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF)| 86xg3PEjUesfxk8GJKApwXgG53X5KZ34JFLsXovroMGy |
-|![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)| https://discord.com/users/296276939637784576 |
+|Badge|link|Badge|link|
+|:----|:---|:----|:---|
+|![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)| bc1q8xshve4980ccyw0cgqujdvjv24zw0vztnu5mw7 | ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | https://t.me/drpsihPll |
+|![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)| 0xf9C09D9B430930f68620dA314cB349D179e0c330 | ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)| https://discord.com/users/296276939637784576 |
+|![Solana](https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF)| 86xg3PEjUesfxk8GJKApwXgG53X5KZ34JFLsXovroMGy |![Вконтакте](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)| https://vk.com/dr_psih_36 |
 |![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)| https://x.com/drpsihdiabloPll |
-|![Вконтакте](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)| https://vk.com/dr_psih_36 |
 
