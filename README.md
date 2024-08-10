@@ -8,7 +8,6 @@ At the moment I have written a large number of projects that somehow function on
 
 I will be glad to any cooperation or other suggestions, so write to me in my social networks!
 
-Translated with DeepL.com (free version)
 
 
 ## My stack:
